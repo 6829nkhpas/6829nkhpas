@@ -57,7 +57,7 @@ I'm a **Backend and Blockchain Developer** with over **3 years of expertise** in
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=6829nkhpas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=6829nkhpas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=6829nkhpas&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
 </div>
@@ -65,51 +65,8 @@ I'm a **Backend and Blockchain Developer** with over **3 years of expertise** in
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6829nkhpas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=6829nkhpas&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=6829nkhpas&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/6829nkhpas/Aptos_Datn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=6829nkhpas&repo=Aptos_Datn&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/6829nkhpas/Community_Overflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=6829nkhpas&repo=Community_Overflow&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/6829nkhpas/Cyber-Hunter-Frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=6829nkhpas&repo=Cyber-Hunter-Frontend&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/6829nkhpas/My-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=6829nkhpas&repo=My-Portfolio&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 💼 Professional Highlights
-
-- 🏗️ **Backend Architecture**: Designed and implemented scalable microservices handling millions of requests
-- ⛓️ **Blockchain Development**: Built decentralized applications on Ethereum and Aptos
-- 🔐 **Security-First**: Implemented secure payment systems and authentication mechanisms
-- 🚀 **Performance Optimization**: Reduced API response times by 60% through caching and optimization
-- 🤝 **Open Source**: Active contributor to major projects like Hyperswitch and Daytona
 
 ---
 
@@ -117,19 +74,33 @@ I'm a **Backend and Blockchain Developer** with over **3 years of expertise** in
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=6829nkhpas&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=6829nkhpas&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
 
 </div>
 
-<details>
-<summary>📊 More Detailed Stats</summary>
-<br>
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6829nkhpas&theme=tokyonight" alt="Profile Details"/>
+## 📉 Detailed Contribution Metrics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6829nkhpas&theme=tokyonight" alt="Productive Time"/>
+<div align="center">
 
-</details>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6829nkhpas&theme=tokyonight" alt="Profile Details" width="95%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=6829nkhpas&theme=tokyonight" alt="Repos per Language" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=6829nkhpas&theme=tokyonight" alt="Most Commit Language" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=6829nkhpas&theme=tokyonight" alt="Stats" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6829nkhpas&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="170"/>
+
+</div>
 
 ---
 
@@ -140,13 +111,13 @@ I'm a **Backend and Blockchain Developer** with over **3 years of expertise** in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namankh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://the-ultimate-portfolio-eight.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/6829nkhpas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](parnamnkh1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nkhpas091@gmail.com)
 
 </div>
 
 ---
 
-## 💡 Dev Quote
+## 💡  Dev Quote
 
 <div align="center">
 
