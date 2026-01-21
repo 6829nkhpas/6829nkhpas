@@ -117,9 +117,19 @@ I'm a **Backend and Blockchain Developer** with over **3 years of expertise** in
 
 <div align="center">
 
-![Snake animation](https://github.com/6829nkhpas/6829nkhpas/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=6829nkhpas&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
+
+<details>
+<summary>📊 More Detailed Stats</summary>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=6829nkhpas&theme=tokyonight" alt="Profile Details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=6829nkhpas&theme=tokyonight" alt="Productive Time"/>
+
+</details>
 
 ---
 
@@ -130,13 +140,13 @@ I'm a **Backend and Blockchain Developer** with over **3 years of expertise** in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namankh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://the-ultimate-portfolio-eight.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/6829nkhpas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nkhpas091@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](parnamnkh1@gmail.com)
 
 </div>
 
 ---
 
-## 💡 Dev Quote
+## 💡  Dev Quote
 
 <div align="center">
 
