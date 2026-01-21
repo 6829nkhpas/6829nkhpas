@@ -146,7 +146,7 @@ I'm a **Backend and Blockchain Developer** with over **3 years of expertise** in
 
 ---
 
-## 💡  Dev Quote
+## 💡 Dev Quote
 
 <div align="center">
 
