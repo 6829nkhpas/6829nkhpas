@@ -61,9 +61,9 @@ I'm a **Backend and Blockchain Developer** with over **3 years of expertise** in
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yash-rana0101/yash-rana0101/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash-rana0101/yash-rana0101/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yash-rana0101/yash-rana0101/output/dist/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/6829nkhpas/6829nkhpas/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6829nkhpas/6829nkhpas/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/6829nkhpas/6829nkhpas/output/dist/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
